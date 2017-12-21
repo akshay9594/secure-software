@@ -8,8 +8,7 @@ This project involved building a clone of the classic Minesweeper game which com
 
 ### Gee-Mail
 
-In this project we built an asynchronus(same machine) messaging platform. The interface resembled that of an Emailing service like Gmail. We incorporated User registration, login and authentication functionalities along with an inbox and an outbox to check for new messages. We also had Encryption and Decryption functionalities w.r.t the messages. As soon as a User registers with his credentials, the Username and password are stored in a SQL database. We used SHA256 to hash the password and Salsa20 for Encryption of the messages.
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In this project we built an asynchronus(same machine) messaging platform. The interface resembled that of an Emailing service like Gmail. We incorporated User registration, login and authentication functionalities along with an inbox and an outbox to check for new messages. We also had Encryption and Decryption functionalities w.r.t the messages. As soon as a User registers with his credentials, the Username and password are stored in a SQL database. We used SHA256 to hash the password and Salsa20 for Encryption of the messages. You can find the source code [here](https://github.com/akshay9594/Gee-mail)
 
 ### Jekyll Themes
 
