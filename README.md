@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/akshay9594/secure-software/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this particular course we designed projects from a security point of view. The programming language used was primarily C++, although we sometimes made use of C as well. We would exchange our projects with an opposition team and would try to find weaknesses and esploits in each others projects. Following are the differe projects we designed in this course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Command-Line Minesweeper
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project involved building a clone of the classic Minesweeper game which comes with any Windows PC. One can play the game from the command line and we included different levels for the player to choose from. We had to build this game keeping in mind the SEI CERT C Coding Standards, to make sure we are following all the secure coding standards. Here's the [link]() to the source code of the project.
 
 ```markdown
 Syntax highlighted code block
