@@ -14,3 +14,6 @@ In this project we built an asynchronus(same machine) messaging platform. The in
 
 The idea here is to display random tweets on the command line by way of prediction. The words are fetched from files and every word after the first word is picked up based on the amount of times it appears after the first word in the file. Subsequent words are thus fetched and displayed as an entire tweet of 280 characters. Find the source code [here](https://github.com/akshay9594/Markovian-tweets).
 
+### Skills gained
+
+Working on all of the above projects , my c++ programming skills have definitely gone up a level from beginner to intermediate. I got to learn all of the stuff that goes on under the hood wrt Heaps, Stacks, Memory management and how it can be exploited. We got to learn various defense techniques like SHA256 for hashing, XORing and Salsa20 for Encryption, defending against SQL injection attacks so on and so forth. Got to learn static analysis tools like flawfinder and Rosecheckers besides the customary GDB and Valgrind. Knowing various Secure coding standards and Cybersecurity frameworks was an added outcome from this course.
