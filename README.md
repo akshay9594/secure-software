@@ -12,12 +12,5 @@ In this project we built an asynchronus(same machine) messaging platform. The in
 
 ### Markovian Tweets
 
-The idea here is to display random tweets on the command line by way of prediction. The words are fetched from files and every word after the first word is picked up based on the amount of times it appears after the first word in the file. Subsequent words are thus fetched and displayed as an entire tweet of 280 characters. Find the source code here.
+The idea here is to display random tweets on the command line by way of prediction. The words are fetched from files and every word after the first word is picked up based on the amount of times it appears after the first word in the file. Subsequent words are thus fetched and displayed as an entire tweet of 280 characters. Find the source code [here](https://github.com/akshay9594/Markovian-tweets).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshay9594/secure-software/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
